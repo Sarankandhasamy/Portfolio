@@ -77,13 +77,14 @@ nav li:first-child
     .hideOnMobile{
         display: none;
     }
-    .menu-button{
-        display: none;
+    .side-bar{
+        width: 100%;
     }
+    
 }
-@media screen and (max-width:400px)
+/* @media screen and (max-width:400px)
 {
     .side-bar{
         width: 100%;
     }
-}
+} */
