@@ -78,7 +78,7 @@ nav li:first-child
         display: none;
     }
     .menu-button{
-        display: block;
+        display: none;
     }
 }
 @media screen and (max-width:400px)
