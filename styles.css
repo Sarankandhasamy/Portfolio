@@ -70,21 +70,18 @@ nav li:first-child
     width: 100%;
 }
 .menu-button{
-    display: block;
+    display: none;
 }
 
 @media screen and (max-width:600px){
     .hideOnMobile{
         display: none;
     }
+    .menu-button{
+    display: block;
+}
     .side-bar{
         width: 100%;
     }
     
 }
-/* @media screen and (max-width:400px)
-{
-    .side-bar{
-        width: 100%;
-    }
-} */
